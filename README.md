@@ -2,7 +2,7 @@
 
 ## What is it?
 
-A spreadsheet (Google Sheets/Excel) advanced spreadsheet/app for personal finance management, net worth tracking, Money management, financial goals and FIRE (Financial Independence Retire Early).
+A simple to use spreadsheet (Google Sheets/Excel) advanced spreadsheet/app for personal finance management, net worth tracking, money management, financial goals and FIRE (Financial Independence Retire Early).
 
 ## Why is it?
 
