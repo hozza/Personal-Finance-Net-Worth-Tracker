@@ -1,1 +1,2 @@
-1.2,https://google.co.uk/
+1.2
+https://google.co.uk/
