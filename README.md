@@ -1,5 +1,10 @@
 # Personal Finance (Net Worth Tracking) Spreadsheet
 
+View & use the Google Sheet (spreadsheet) here: 
+
+https://docs.google.com/spreadsheets/d/1SvsWl_Nj67ivaAWdlqbZ9fKyZ5p-1k8LB8TPVK6eWxg/edit?usp=sharing
+
+
 ## What is it?
 
 A simple to use spreadsheet (Google Sheets/Excel) advanced spreadsheet/app for personal finance management, net worth tracking, money management, financial goals and FIRE (Financial Independence Retire Early).
