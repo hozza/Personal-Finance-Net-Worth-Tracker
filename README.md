@@ -4,6 +4,7 @@ View & use the Google Sheet (spreadsheet) here:
 
 https://docs.google.com/spreadsheets/d/1SvsWl_Nj67ivaAWdlqbZ9fKyZ5p-1k8LB8TPVK6eWxg/edit?usp=sharing
 
+![Personal Finance Net Worth Tracking Spreadsheet Google Sheets](https://raw.githubusercontent.com/hozza/Personal-Finance-Net-Worth-Tracker/master/screenshot.png)
 
 ## What is it?
 
