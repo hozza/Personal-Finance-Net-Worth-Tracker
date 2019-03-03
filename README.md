@@ -2,12 +2,12 @@
 
 A simple to use community-driven advanced spreadsheet (Google Sheets/Excel) for personal finance management, net worth tracking, general money management, financial goals and FIRE (Financial Independence Retire Early). _Grown from the knowledge and interests of various Reddit money-based sub-reddits._
 
-Designed for British Pounds in the UK (GBP£) - but I'm sure it could work for other currencies/countries too.
-Make sure to check for new versions as they may include bug fixes, improvements and new features!
+_Designed for British Pounds in the UK (GBP£) - but I'm sure it could work for other currencies/countries too.
+Make sure to check for new versions as they may include bug fixes, improvements and new features!_
 
-View the current version spreadsheet (Google Sheet) here, to use/edit it yourself choose `File > Save a Copy`:
+**View the current version spreadsheet (Google Sheet) here, to use/edit it yourself choose `File > Save a Copy`:**
 
-https://docs.google.com/spreadsheets/d/1SvsWl_Nj67ivaAWdlqbZ9fKyZ5p-1k8LB8TPVK6eWxg/edit?usp=sharing
+ > v1.4 RC https://docs.google.com/spreadsheets/d/1SvsWl_Nj67ivaAWdlqbZ9fKyZ5p-1k8LB8TPVK6eWxg/edit?usp=sharing
 
 
 ![Personal Finance Net Worth Tracking Spreadsheet Google Sheets](https://raw.githubusercontent.com/hozza/Personal-Finance-Net-Worth-Tracker/master/screenshot.png)
@@ -16,7 +16,7 @@ https://docs.google.com/spreadsheets/d/1SvsWl_Nj67ivaAWdlqbZ9fKyZ5p-1k8LB8TPVK6e
 ## Table of Contents
  0. [Why does this exist?](#why)
  0. [Why is it free?](#license--cost) (TL;DR - community developed, you can donate time/money or not)
- 0. [Where? Links.](#where) [Project Home GitHub](https://github.com/hozza/Personal-Finance-Net-Worth-Tracker/), [Help @benhoskins64 Twitter](https://twitter.com/benhoskins64), [Donations](https://www.paypal.me/bhoskins745), [Discussions at Reddit](#discussions).
+ 0. [Where?](#where) Links: [Project Home GitHub](https://github.com/hozza/Personal-Finance-Net-Worth-Tracker/), [Help @benhoskins64 Twitter](https://twitter.com/benhoskins64), [Donations](https://www.paypal.me/bhoskins745), [Discussions at Reddit](#discussions).
  0. [Features & Todo](#current-features--todos)
  0. [Change-log & History](#change-log--history)
  0. [Extra information in the Wiki](https://github.com/hozza/Personal-Finance-Net-Worth-Tracker/wiki/).
@@ -44,7 +44,7 @@ GitHub is a place where users can donate their time and ideas, open 'issues' wit
 
 I'll do my best to help users with any basic questions on Twitter, if it's a bigger problem than expected, or a feature request it's probably best on [GitHub in the 'issues' section](https://github.com/hozza/Personal-Finance-Net-Worth-Tracker/issues).
 
-### Monetary Support / Help Fund the Project: [https://www.paypal.me/bhoskins745](https://www.paypal.me/bhoskins745)
+### Monetary Support / Help Fund the Project: https://www.paypal.me/bhoskins745
 
 *Any donationed amount is greatly welcomed!* Just buy me a 'thanks coffee', anything you feel it's worth, _or absolutely nothing at all_.
 
