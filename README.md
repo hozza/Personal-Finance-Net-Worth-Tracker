@@ -82,9 +82,11 @@ I'm a programmer by-day, finance enthusiast by-night! I've used this myself for 
 
 ## Change-log & History
 
-2019-03-02 Made first public release copy and [mentioned on r/UKPersonalFinance](https://www.reddit.com/r/UKPersonalFinance/comments/awnpqk/personal_finance_net_worth_v14_rc_google/).
-
-2019-01-06 Still very much in the early stages, works for basic usage currently. Hoping to grow the features with feedback and advice from the community! :)
-
-2018-06 Started development in private and using personally, inspired/motivated by the various sub-reddits mentioned above. _(and the lack of a good existing solution!)_
+ - 2019-03-02 v1.4 Made first public release copy and [mentioned on r/UKPersonalFinance](https://www.reddit.com/r/UKPersonalFinance/comments/awnpqk/personal_finance_net_worth_v14_rc_google/).
+ - 2019-01-07	v1.3	Preparation for public release copy
+ - 2019-01-06	v1.2	Added settings, fixes and Intro tab.
+ - 2018-08-01	v1.1	Improved graph, formulas & ease of use.
+ - 2018-07-01	v0	So how does this work.
+ - 2019-01-06 Still very much in the early stages, works for basic usage currently. Hoping to grow the features with feedback and advice from the community! :)
+ - 2018-06 Started development in private and using personally, inspired/motivated by the various sub-reddits mentioned above. _(and the lack of a good existing solution!)_
 
