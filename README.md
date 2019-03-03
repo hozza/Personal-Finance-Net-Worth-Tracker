@@ -14,13 +14,37 @@ Make sure to check for new versions as they may include bug fixes, improvements 
 
 
 ## Table of Contents
+ 0. [Features](#features)
+ 0. [Todo & Coming Soon](#todo)
  0. [Why does this exist?](#why)
  0. [Why is it free?](#license--cost) (TL;DR - community developed, you can donate time/money or not)
  0. [Where?](#where) Links: [Project Home GitHub](https://github.com/hozza/Personal-Finance-Net-Worth-Tracker/), [Help @benhoskins64 Twitter](https://twitter.com/benhoskins64), [Donations](https://www.paypal.me/bhoskins745), [Discussions at Reddit](#discussions).
- 0. [Features & Todo](#current-features--todos)
  0. [Change-log & History](#change-log--history)
  0. [Extra information in the Wiki](https://github.com/hozza/Personal-Finance-Net-Worth-Tracker/wiki/).
 
+## Features
+
+ - **Emergency Fund KPI**, keep track of your disaster fund/buffer. 
+
+ - **Networth Tracking**, keep track of assets and liabilities, visualise trends and growth/loss. 
+
+   - LA - Liquid Asset _(Cash & equivalents)_
+   - A - Asset _(Stuff you own)_
+   - S&S - Stocks & Shares _(Other peoples stuff you own)_
+   - FX - Foreign Exchange _(Other currencies/FOREX)_
+   - DCE - Crypto Exchange _(Cryptocurrency e.g. Bitcoin)_
+   - L - Liability _(Stuff you owe, loans, credit cards etc)_
+
+## Todo
+
+- [ ] Explain Excel hikup and improve export archive. [source](https://www.reddit.com/r/UKPersonalFinance/comments/awnpqk/personal_finance_net_worth_v14_rc_google/ehot9ie/)
+- [ ] Bring formulas into Git, via per-sheet Google Sheet export and commit. [source](https://www.reddit.com/r/UKPersonalFinance/comments/awnpqk/personal_finance_net_worth_v14_rc_google/ehozeua/)
+ - [ ] Make Wiki with FAQ & Acronym Terms Glossary [source](https://www.reddit.com/r/UKPersonalFinance/comments/awnpqk/personal_finance_net_worth_v14_rc_google/ehp3gbw/)
+ - [ ] WIP Features: Financial Goal/KPI e.g. FS, LeanFI, FI, FatFI
+ - [ ] WIP Tool: Various levels of financial independence calculator
+ - [ ] WIP Tool: Retirement planning calculator
+ - [ ] Tool: Advanced mortgage calculator
+ - [ ] Feature: day-to-day budgets auto-imported from modern banks
 
 ## Why
 
@@ -55,19 +79,6 @@ I'm a programmer by-day, finance enthusiast by-night! I've used this myself for 
  - [First post on Twitter](https://twitter.com/benhoskins64/status/1102002883099324419)
  - [First post on Reddit UK Personal Finance](https://www.reddit.com/r/UKPersonalFinance/comments/awnpqk/personal_finance_net_worth_v14_rc_google/)
  - [GitHub Issues](https://github.com/hozza/Personal-Finance-Net-Worth-Tracker/issues)
-
-## Current Features & Todos
-
- - **Emergency Fund KPI**, keep track of your disaster fund/buffer. 
-
- - **Networth Tracking**, keep track of assets and liabilities, visualise trends and growth/loss. 
-
-   - LA - Liquid Asset _(Cash & equivalents)_
-   - A - Asset _(Stuff you own)_
-   - S&S - Stocks & Shares _(Other peoples stuff you own)_
-   - FX - Foreign Exchange _(Other currencies/FOREX)_
-   - DCE - Crypto Exchange _(Cryptocurrency e.g. Bitcoin)_
-   - L - Liability _(Stuff you owe, loans, credit cards etc)_
 
 ## Change-log & History
 
