@@ -14,12 +14,12 @@ https://docs.google.com/spreadsheets/d/1SvsWl_Nj67ivaAWdlqbZ9fKyZ5p-1k8LB8TPVK6e
 
 
 ## Table of Contents
- 0. Why does this exist?
- 0. Why is it free? (TL;DR - community developed, you can donate time/money or not)
- 0. Where? Project Home GitHub, Help @benhoskins64 Twitter, Donations, Discussions at Reddit.
- 0. Features & Todo's.
- 0. Change-log & History
- 0. Extra information. Wiki.
+ 0. [Why does this exist?](#why)
+ 0. [Why is it free?](#license--cost) (TL;DR - community developed, you can donate time/money or not)
+ 0. [Where? Links.](#where) [Project Home GitHub](https://github.com/hozza/Personal-Finance-Net-Worth-Tracker/), [Help @benhoskins64 Twitter](https://twitter.com/benhoskins64), [Donations](https://www.paypal.me/bhoskins745), [Discussions at Reddit](#discussions).
+ 0. [Features & Todo](#current-features--todos)
+ 0. [Change-log & History](#change-log--history)
+ 0. [Extra information in the Wiki](https://github.com/hozza/Personal-Finance-Net-Worth-Tracker/wiki/).
 
 
 ## Why
@@ -50,6 +50,11 @@ I'll do my best to help users with any basic questions on Twitter, if it's a big
 
 I'm a programmer by-day, finance enthusiast by-night! I've used this myself for sometime and thought we could all benefit from pooling ideas and resources - I intend to keep working on it regardless - and every penny goes a long way to freeing up more time and resources to develop the project further! :)
 
+### Discussions
+
+ - [First post on Twitter](https://twitter.com/benhoskins64/status/1102002883099324419)
+ - [First post on Reddit UK Personal Finance](https://www.reddit.com/r/UKPersonalFinance/comments/awnpqk/personal_finance_net_worth_v14_rc_google/)
+ - [GitHub Issues](https://github.com/hozza/Personal-Finance-Net-Worth-Tracker/issues)
 
 ## Current Features & Todos
 
@@ -57,12 +62,12 @@ I'm a programmer by-day, finance enthusiast by-night! I've used this myself for 
 
  - **Networth Tracking**, keep track of assets and liabilities, visualise trends and growth/loss. 
 
-  - LA - Liquid Asset _(Cash & equivalents)_
-  - A - Asset _(Stuff you own)_
-  - S&S - Stocks & Shares _(Other peoples stuff you own)_
-  - FX - Foreign Exchange _(Other currencies/FOREX)_
-  - DCE - Crypto Exchange _(Cryptocurrency e.g. Bitcoin)_
-  - L - Liability _(Stuff you owe, loans, credit cards etc)_
+   - LA - Liquid Asset _(Cash & equivalents)_
+   - A - Asset _(Stuff you own)_
+   - S&S - Stocks & Shares _(Other peoples stuff you own)_
+   - FX - Foreign Exchange _(Other currencies/FOREX)_
+   - DCE - Crypto Exchange _(Cryptocurrency e.g. Bitcoin)_
+   - L - Liability _(Stuff you owe, loans, credit cards etc)_
 
 ## Change-log & History
 
