@@ -5,6 +5,8 @@ A simple to use community-driven advanced spreadsheet (Google Sheets/Excel) for 
 _Designed for British Pounds in the UK (GBP£) - but I'm sure it could work for other currencies/countries too.
 Make sure to check for new versions as they may include bug fixes, improvements and new features!_
 
+ > Subscribe to the **emailing list for spreadsheet updates**, choose 'only finance' unless you'd like to see all [my blogs](https://benhoskins.dev/) posts about programming too! Infrequent emails, no-nonsense mailing list: http://eepurl.com/gk5GzX
+ 
 **View the current version spreadsheet (Google Sheet) here, to use/edit it yourself choose `File > Save a Copy`:**
 
  > v1.4 RC https://docs.google.com/spreadsheets/d/1SvsWl_Nj67ivaAWdlqbZ9fKyZ5p-1k8LB8TPVK6eWxg/edit?usp=sharing
