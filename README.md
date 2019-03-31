@@ -79,6 +79,7 @@ I'm a programmer by-day, finance enthusiast by-night! I've used this myself for 
  - [First post on Twitter](https://twitter.com/benhoskins64/status/1102002883099324419)
  - [First post on Reddit UK Personal Finance](https://www.reddit.com/r/UKPersonalFinance/comments/awnpqk/personal_finance_net_worth_v14_rc_google/)
  - [GitHub Issues](https://github.com/hozza/Personal-Finance-Net-Worth-Tracker/issues)
+ - [First Post on BenHoskins.dev Blog](https://benhoskins.dev/best-personal-finance-net-worth-tracking-spreadsheet-2019/)
 
 ## Change-log & History
 
